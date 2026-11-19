@@ -1,0 +1,18 @@
+Energy Storage Optimization: Home Batteries and Load Shifting
+
+A home battery stores energy when it is cheap or plentiful and releases it when it is expensive. Even without a battery, some devices store energy in other forms.
+
+Battery strategies
+- Solar self-consumption: charge the battery from surplus midday solar and discharge in the evening, instead of exporting the surplus and buying back later.
+- Time-of-use arbitrage: charge from the grid during off-peak hours and discharge during peak hours. This saves money only when the price gap exceeds the energy lost in a full cycle; round-trip efficiency is often around 85 to 90 percent.
+- Keep a backup reserve, for example 20 percent, if you rely on the battery during outages.
+- Avoid unnecessary full charge and discharge cycles; most batteries last longer when kept away from the extremes for long periods.
+
+Storage you may already have
+- Thermal storage: a well-insulated home stores heat and coolness, which is why pre-cooling and pre-heating work.
+- Water heaters store energy as hot water. Heating water during off-peak or solar hours and coasting through the peak shifts that load without any loss of comfort.
+- An electric vehicle is a large battery on wheels. Smart charging, and where supported vehicle-to-home, can shift many kilowatt-hours.
+
+Working out whether storage pays
+- Saving per day is roughly the energy shifted multiplied by the price difference, minus losses.
+- Compare the annual saving with the installed cost to estimate a simple payback period, and remember that batteries lose some capacity over the years.

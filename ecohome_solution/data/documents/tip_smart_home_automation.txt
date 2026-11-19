@@ -1,0 +1,22 @@
+Smart Home Automation Tips
+
+Automation saves energy when it removes the need to remember. The best automations are simple rules tied to prices, solar output, occupancy and time of day.
+
+Rules worth setting up
+- Delay-start large appliances: dishwashers, washing machines and dryers can start automatically at the beginning of the off-peak period or when the solar forecast is strong.
+- Schedule EV charging in the car or charger app rather than plugging in and charging immediately when you arrive home in the evening, which is usually the most expensive time.
+- Use occupancy and geofencing: let the thermostat set back when the last person leaves and recover shortly before someone returns.
+- Turn off standby loads with smart plugs or switched power strips on entertainment centres and home offices overnight.
+
+Price-aware automation
+- Many utilities publish time-of-use schedules. A home energy app or smart hub can read the schedule and shift flexible loads automatically.
+- Group loads into three kinds: shiftable (dishwasher, laundry, EV, pool pump, water heater), reducible (HVAC setpoint, lighting) and fixed (refrigerator, medical equipment). Automate the first two; never the third.
+
+Solar-aware automation
+- Rules such as "start the dishwasher when solar generation exceeds household use by 1 kW" use solar power that would otherwise be exported for little value.
+- Combine a forecast with a deadline: "finish charging the car by 7:00, using the sunniest hours first and off-peak grid power for the rest."
+
+Good practice
+- Keep a manual override for every automation, and review the schedules seasonally, because sunrise, sunset and prices change.
+- Check that devices report their energy use; you cannot improve what you cannot measure.
+- Keep smart-home devices updated and on a separate network where your router allows it; they are computers on your network.

@@ -1,0 +1,21 @@
+Renewable Energy Integration: Getting the Most from Rooftop Solar
+
+Solar panels produce the most energy around midday on clear days. The value of that energy depends on whether the home uses it directly or sends it to the grid.
+
+Self-consumption first
+- Under many current tariffs, energy exported to the grid is credited at less than the price paid for energy imported in the evening. Using solar energy directly at home is then worth more than exporting it.
+- Move flexible loads into the solar window, roughly 10:00 to 15:00: EV charging, pool pumps, water heating, laundry and dishwashers.
+- On cloudy days generation can fall to a third or less of a sunny day; check the forecast before committing a large load to midday.
+
+Reading solar data
+- Daily generation is shaped like a hill: low at dawn, highest near solar noon, low again before sunset.
+- Weather is the biggest day-to-day factor. Temperature matters less, and very hot panels are slightly less efficient.
+- Compare generation on similar-weather days to spot a problem: a drop on sunny days can mean dirty panels, shading or an inverter fault.
+
+Matching loads to generation
+- A typical home EV charger draws about 7 kW. A system producing 4 to 5 kWh in its best hour cannot cover that alone, so expect solar charging to be a mix of solar and grid power.
+- Lower-power loads, such as a pool pump (about 1 to 1.5 kW) or a dishwasher (about 1 to 1.5 kWh per cycle), are easier to cover fully with midday solar.
+
+Keeping panels productive
+- Keep panels clear of debris and check for new shading from trees.
+- Review the monitoring app monthly; a sudden fall in output on sunny days is worth investigating.

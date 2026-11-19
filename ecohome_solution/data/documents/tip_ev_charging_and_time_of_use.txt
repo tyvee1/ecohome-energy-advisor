@@ -1,0 +1,17 @@
+EV Charging and Time-of-Use Pricing
+
+An electric vehicle is often the largest single load in a home, so when it charges matters more than almost any other choice.
+
+How time-of-use pricing works
+- Under a time-of-use tariff, the price per kWh changes with the hour. Overnight off-peak hours are cheapest, the late afternoon and evening peak is the most expensive, and the rest of the day sits in between.
+- Moving a load from peak to off-peak keeps the energy the same and lowers its cost; the saving is the energy moved multiplied by the price difference.
+
+Charging plans
+- Overnight off-peak charging is the simplest way to cut charging costs. Set the charger or car to start when the off-peak period begins and to finish before you leave.
+- If you have solar panels and the car is at home during the day, charge in the sunniest hours first, then top up off-peak. Check tomorrow's forecast: on a cloudy day, plan for off-peak grid charging instead.
+- Avoid starting a charge as soon as you arrive home in the early evening; that is usually the most expensive time.
+- A Level 2 home charger at about 7 kW adds roughly 40 to 50 km (25 to 30 miles) of range per hour for a typical EV. Most daily driving needs only a few hours of charging.
+
+Estimating cost
+- Charging cost is the energy delivered multiplied by the price during those hours, plus a small loss in the charger, often around 10 percent.
+- Example: 30 kWh at an off-peak price of 0.11 USD per kWh costs about 3.30 USD; the same energy at a peak price of 0.24 USD costs about 7.20 USD, a difference of about 3.90 USD per charge.

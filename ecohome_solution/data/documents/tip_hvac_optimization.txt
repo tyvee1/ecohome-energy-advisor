@@ -1,0 +1,24 @@
+HVAC Optimization Strategies
+
+Heating and cooling are usually the largest share of a home's energy use, so small changes to how the HVAC system runs add up quickly.
+
+Thermostat setpoints and setbacks
+- Every degree matters. Raising the cooling setpoint or lowering the heating setpoint reduces how long the system runs.
+- The U.S. Department of Energy's Energy Saver guidance says that turning the thermostat back 7 to 10 degrees Fahrenheit for 8 hours a day, for example while you are at work or asleep, can save up to about 10 percent a year on heating and cooling.
+- A smart or programmable thermostat applies setbacks automatically, so the saving does not depend on remembering.
+- Avoid large swings when you return: a heat pump driven far from its setpoint may switch to backup electric resistance heat, which costs much more per hour of comfort.
+
+Pre-cooling and pre-heating around time-of-use prices
+- When electricity is priced higher in the late afternoon and evening, cool the house a few degrees below your usual setpoint in the early afternoon, while prices are lower or solar output is high, then let the temperature drift up slowly during the peak period.
+- The house itself stores the coolness. Well-insulated homes coast through a 4 to 5 hour peak with little discomfort; leaky homes lose the benefit faster.
+- In winter the same idea works in reverse: pre-heat before the evening peak.
+- During a price spike, a reasonable setting is to raise the cooling setpoint by 2 to 4 degrees Fahrenheit (about 1 to 2 degrees Celsius) and use ceiling fans, which make a room feel cooler at a fraction of the energy.
+
+Maintenance that keeps efficiency high
+- Replace or clean air filters every one to three months; a clogged filter makes the blower work harder.
+- Keep outdoor condenser coils clear of leaves and debris, and have the system serviced once a year.
+- Seal and insulate ducts that run through attics, crawl spaces or garages; leaky ducts can waste a large part of the air the system conditions.
+
+When to replace equipment
+- A heat pump is typically two to three times more efficient than electric resistance heating because it moves heat rather than making it.
+- Compare SEER2 ratings for cooling and HSPF2 ratings for heat pump heating; higher is more efficient.

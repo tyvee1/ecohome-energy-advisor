@@ -1,0 +1,21 @@
+Seasonal Energy Management
+
+Energy use and solar output change with the seasons, so the right schedule in July is not the right one in January.
+
+Summer
+- Cooling drives the peak. Pre-cool in the early afternoon, close blinds on sun-facing windows, and use ceiling fans so the thermostat can sit higher.
+- Solar output is highest because days are long and the sun is high; this is the best season to run flexible loads at midday.
+- Run heat-producing appliances such as dryers and ovens early in the morning or late in the evening so the air conditioner does not have to remove their heat.
+
+Winter
+- Heating drives use, often in the early morning and evening. Lower the setpoint at night and while away, and seal drafts around doors and windows.
+- Days are short and the sun is low, so solar output can be well under half of summer's. Plan to rely more on off-peak grid hours for EV charging and water heating.
+- Let sunlight warm the house during the day by opening south-facing curtains, and close them at night to keep the heat in.
+
+Spring and autumn
+- Mild weather is a chance to use little or no heating and cooling: open windows when outdoor temperatures are comfortable.
+- Service the heating system before winter and the cooling system before summer.
+- Re-check automation schedules after daylight-saving time changes, because solar hours and occupancy patterns shift by an hour.
+
+Every season
+- Review last month's usage by device to see which loads grew, and adjust the plan for the month ahead.
